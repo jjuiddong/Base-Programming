@@ -13,6 +13,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5. stringoperator", "5. str
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6. stringcompose", "6. stringcompose\6. stringcompose.vcxproj", "{7824BB44-C438-45C9-A538-A40C78A3AFC2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7. stringsearch", "7. stringsearch\7. stringsearch.vcxproj", "{34304647-E453-4BD4-9019-F1D59662AE8A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8, stringReplace", "8, stringReplace\8, stringReplace.vcxproj", "{821D83B1-3042-4599-BBAE-FD28065C8B85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -43,6 +47,14 @@ Global
 		{7824BB44-C438-45C9-A538-A40C78A3AFC2}.Debug|Win32.Build.0 = Debug|Win32
 		{7824BB44-C438-45C9-A538-A40C78A3AFC2}.Release|Win32.ActiveCfg = Release|Win32
 		{7824BB44-C438-45C9-A538-A40C78A3AFC2}.Release|Win32.Build.0 = Release|Win32
+		{34304647-E453-4BD4-9019-F1D59662AE8A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{34304647-E453-4BD4-9019-F1D59662AE8A}.Debug|Win32.Build.0 = Debug|Win32
+		{34304647-E453-4BD4-9019-F1D59662AE8A}.Release|Win32.ActiveCfg = Release|Win32
+		{34304647-E453-4BD4-9019-F1D59662AE8A}.Release|Win32.Build.0 = Release|Win32
+		{821D83B1-3042-4599-BBAE-FD28065C8B85}.Debug|Win32.ActiveCfg = Debug|Win32
+		{821D83B1-3042-4599-BBAE-FD28065C8B85}.Debug|Win32.Build.0 = Debug|Win32
+		{821D83B1-3042-4599-BBAE-FD28065C8B85}.Release|Win32.ActiveCfg = Release|Win32
+		{821D83B1-3042-4599-BBAE-FD28065C8B85}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
