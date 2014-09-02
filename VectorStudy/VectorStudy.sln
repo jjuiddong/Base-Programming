@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1. vector init", "1. vector init\1. vector init.vcxproj", "{4DD06707-D19E-416E-A084-A7D9F18D52DF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2. vector init2", "2. vector init2\2. vector init2.vcxproj", "{4550DAD1-1CA4-47E9-8CA6-2FFEFFA2F4CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DD06707-D19E-416E-A084-A7D9F18D52DF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4DD06707-D19E-416E-A084-A7D9F18D52DF}.Debug|Win32.Build.0 = Debug|Win32
+		{4DD06707-D19E-416E-A084-A7D9F18D52DF}.Release|Win32.ActiveCfg = Release|Win32
+		{4DD06707-D19E-416E-A084-A7D9F18D52DF}.Release|Win32.Build.0 = Release|Win32
+		{4550DAD1-1CA4-47E9-8CA6-2FFEFFA2F4CE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4550DAD1-1CA4-47E9-8CA6-2FFEFFA2F4CE}.Debug|Win32.Build.0 = Debug|Win32
+		{4550DAD1-1CA4-47E9-8CA6-2FFEFFA2F4CE}.Release|Win32.ActiveCfg = Release|Win32
+		{4550DAD1-1CA4-47E9-8CA6-2FFEFFA2F4CE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
