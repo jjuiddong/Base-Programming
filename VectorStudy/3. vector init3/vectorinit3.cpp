@@ -5,14 +5,17 @@ using namespace std; // std 이름공간에 있는 라이브러리를 std:: 를 붙이지 않고 쓸
 
 void main()
 {
-	// resize() 함수로 벡터의 크기를 지정 할 수 있다.
 	vector<int> numbers;
-	numbers.resize(10);
 
-	// 벡터에 값을 저장한다. 벡터 요소 순서대로 0 부터 벡터크기-1 값이 저장된다.
-	for (unsigned int i=0; i < numbers.size(); ++i)
+	// reserver() 함수를 이용해서 벡터 용량을 늘린다.
+	// 10개의 integer 값이 들어갈 용량을 미리 잡아놓는다. 
+	// size 는 늘어 나지 않는다.
+	numbers.reserve(10);
+
+	// 벡터에 값을 넣는다.
+	for (int i=0; i < 10; ++i)
 	{
-		numbers[ i] = i;
+		numbers.push_back( i );
 	}
 
 	// 벡터에 저장된 내용을 출력한다.

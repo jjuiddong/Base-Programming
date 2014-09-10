@@ -66,5 +66,5 @@ void main()
 	{
 		cout << sValues[ i].c_str() << endl;
 	}
-		
+
 }
